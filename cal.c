@@ -6,5 +6,7 @@ int main() {
 	printf("Difference: %d\n",a-b);
 	printf("Product: %d\n",a*b);
 	printf("Quotient: %d\n",a/b);
+
+
 	return 0;
 }
