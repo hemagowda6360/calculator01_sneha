@@ -1,5 +1,6 @@
 #include <stdio.h>
-  void mani()
-	printf("hello.world!/n")
+  void main()
+	printf("hello.world!/n");
+	printf("welcome!/n");
 	return 0;
 
